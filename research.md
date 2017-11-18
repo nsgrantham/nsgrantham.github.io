@@ -24,6 +24,6 @@ Grantham, NS (2012). [_Analyzing Multiple Independent Spatial Point Processes_](
 
 ## In the Media
 
-[_Can Specks of Dust Help Solve Crimes?_](time.com/3823925/dust-microbes-forensics/) TIME.  
+[_Can Specks of Dust Help Solve Crimes?_](https://time.com/3823925/dust-microbes-forensics/) TIME.  
 [_Researchers Can Trace Dust Samples Using Fungal DNA_](https://news.ncsu.edu/2015/04/grantham-fungi-2015/) NC State News.
 
