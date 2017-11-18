@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            nsgrantham
+tagline:          'Neal S. Grantham, Ph.D.'
+description:      'Neal S. Grantham, Ph.D.'
+permalink:        /:title/
+
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+sidebar_home_link:  false
+
+disqus:
+  shortname:      'nsgrantham-blog'
+
+google_analytics: UA-53171020-1
+
+# Links
+email:            "mailto:neal@nsgrantham.com"
+github:           "https://github.com/nsgrantham"
+twitter:          "https://twitter.com/nsgrantham"
+instagram:        "https://instagram.com/nsgrantham"
+linkedin:         "https://linkedin.com/in/nsgrantham"

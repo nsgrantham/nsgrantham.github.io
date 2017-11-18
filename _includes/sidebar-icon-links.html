@@ -1,0 +1,42 @@
+<nav id="sidebar-icon-links">
+  {% if site.email %}
+    <a id="email-link"
+       class="icon" title="Email" aria-label="Email"
+       href="{{ site.email }}">
+      {% include svg/email.svg %}
+    </a>
+  {% endif %}
+  
+  {% if site.github %}
+    <a id="github-link"
+       class="icon" title="Github" aria-label="Github"
+       href="{{ site.github. }}">
+       {% include svg/github.svg %}
+    </a>
+  {% endif %}
+
+  {% if site.twitter %}
+    <a id="twitter-link"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="{{ site.twitter }}">
+       {% include svg/twitter.svg %}
+    </a>
+  {% endif %}
+  
+  {% if site.instagram %}
+    <a id="instagram-link"
+       class="icon" title="Instagram" aria-label="Instagram"
+       href="{{ site.instagram }}">
+       {% include svg/instagram.svg %}
+    </a>
+  {% endif %}
+  
+  {% if site.linkedin %}
+    <a id="linkedin-link"
+       class="icon" title="LinkedIn" aria-label="LinkedIn"
+       href="{{ site.linkedin }}">
+       {% include svg/linkedin.svg %}
+    </a>
+  {% endif %}
+  
+</nav>
