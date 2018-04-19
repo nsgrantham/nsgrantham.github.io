@@ -8,7 +8,7 @@ sidebar_link: true
 
 Grantham, NS, Reich, BJ, Laber, EB, Pacifici, K, Dunn, RR, Fierer, N, Gebert, M, Allwood, JS, Faith, SA. _Forensic Geolocation with Deep Neural Networks_. In review.
 
-Grantham, NS, Reich, BJ, Liu, Y, Chang, HH (2018). [_Spatial Regression with an Informatively-Missing Covariate_: Application to Mapping Fine Particular Matter]. _Environmetrics_. Code available at [github.com/nsgrantham/spatial-covariate-informative-missingness](http://www.github.com/nsgrantham/spatial-covariate-informative-missingness).
+Grantham, NS, Reich, BJ, Liu, Y, Chang, HH (2018). [_Spatial Regression with an Informatively-Missing Covariate_: Application to Mapping Fine Particular Matter](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2499). _Environmetrics_. Code available at [github.com/nsgrantham/spatial-covariate-informative-missingness](http://www.github.com/nsgrantham/spatial-covariate-informative-missingness).
 
 Grantham, NS, Reich, BJ, Borer, ET, Gross, K. [_MIMIX: a Bayesian Mixed-Effects Model for Microbiome Data from Designed Experiments_](https://arxiv.org/abs/1703.07747). In review. Code available at [github.com/nsgrantham/mimix](http://www.github.com/nsgrantham/mimix).
 
