@@ -1,0 +1,56 @@
+
+<style>
+.project-box {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  grid-gap: 30px;
+  padding-top: 5px;
+  background-color: #fff;
+  color: #444;
+}
+
+@media screen and (max-width:640px) {
+  .limiter {
+    width:auto;
+  } .project-box {
+    grid-template-columns: repeat(1,1fr);
+  }
+}
+
+.project-box a.project {
+  text-decoration:none;
+  color:#666;
+}
+  
+.project-box a.project:hover {
+  color:#000;
+  text
+}
+
+.project-box a.project img {
+  display:block;
+  margin-bottom:10px;
+}
+
+.box {
+  /* background-color: #444;
+  color: #fff; */
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 80%;
+}
+</style>
+
+{{ content }}
+
+<div class="project-grid">
+  {%- for post in site.categories.projects_content -%}
+  <div class="project">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <img src="{{ site.baseurl }}{{ post.image }}">
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.description }}</span>
+    </a>
+  </div>
+  {%- endfor -%}
+</div>

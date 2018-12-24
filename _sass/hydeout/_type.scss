@@ -4,19 +4,19 @@
 
 h1, h2, h3, h4, h5, h6, .site-title {
   margin-bottom: $heading-spacing;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.25;
   color: $heading-color;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 h3 {
@@ -35,7 +35,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: $gray-6;
 }
 
 ul, ol, dl {

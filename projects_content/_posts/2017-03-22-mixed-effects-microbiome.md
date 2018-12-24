@@ -1,0 +1,19 @@
+---
+layout: post
+image: https://lh3.googleusercontent.com/tD-CXqBaxuHWeQ7hVuCGlAGMlQLjFfLwWR1JsFT3JKomFZGZAtKB7grGOlTjq6CpbkipnIZEpTSrgV-w6pvf_DdBXEdj26uvqhIL-E79AhYtFs4gh4bjybFlb9_5UBIaKkIkAuAkTqim9cjHkPmn4IxeLK-uilLSgsG72_5UtAhZ_nNGbtfdnpEMxDP7dPgcOhqFGvn0XodAFJGZ3yE95y8BwhaYBAUcsL1qGjrOvD_IEltcr1wQl9QUcYRnuC6c_yJKDmVqOCBNUPsrJ0MNzMovAogFJI4hYtmpxLPzWaUTtr0Q8JGDNXoZcs7yPeqNVdpvzY5MHxESBqFnpIBm-IqNxPgruhfjIGo6F85M4mCcssBBz-jB-qhstb-MLYu9fYZDlDkgIPIa-Q9lIvbbSwqCDNHAY1JcepO1dx01lRiBkz8hZ6ijUf-ftVeWZnmSBgYyGoVOieIGMQSvVBB7c1q8TV-cnudQO43NeXgdRQ7hckJICWscJidL5HyHPb_GcQhNeecKjVFlh1YJSia3sGTRSpcufoCQ_eFEUXrYHbSb5KudCRSK6utrBd0i2eeHxWHx72N0FxN7PD_1_RZepPhnW_ReYxcTWWDSykNfRVjq0_wm6Rpxzq5yIjwyvfve1Uixf2LhB1hfLeL8accwfEHn=s452-no
+title: MIMIX
+description: Bayesian mixed-effects model for microbiome data
+---
+
+MIMIX (MIcrobiome MIXed model) is a Bayesian hierarchical model for the analysis of high-throughput sequencing abundance data from designed experiments. It achieves four scientific objectives:
+
+1. Global tests of whether experimental treatments affect microbiome composition,
+2. Local tests for treatment effects on individual taxa and estimation of theses effects if present,
+3. Quantification of how different sources of variability contribute to microbiome heterogeneity, and
+4. Characterization of latent structure in the microbiome (pictured below), which may suggest ecological subcommunities.
+
+![](https://lh3.googleusercontent.com/SVrB-max2S1moP4y9sI19AjTZCe8tR9BUKb8-NmWpp4Mh8O_XAwWoU-3OlZG5Xyl0hyQSbSCesKY5M5mgxZ4PmAD9m6_NEwz4Xen0lSIRzA33E5tb5IUWIOlFprPKxJ_VcRjO5eEuZTmivYYEMJOmeRzZD7OO8NOskFCLqH6TLO4aLuET6gcAXrzpnKDu8MWvIJkOuwMGQPZecEU-J_BxqqyRHKENyxlgZiG-R5y4qjnV28O_BRNNqDsST_PY6X6B2F-35sERsDJrjXeuIQvpafVqH1u2mZW1QpUfPA6PtcAdpDCN7daqwxwySMLYiiFQ_Nw2LRPgrR4lAlZG-MpLlfi0mW5gOTHU0zm4EETWTDp1F7VY72ZOEq623hFOHj7UErolZc7454bJ4BYfI-8BL3dHiidfpRQLuFghLPCEsyzV58VqfMgkx5gdmv0KKEvibVvqMikc2cHqCD-Bf8htw5UikfRKAU4Nqd_zwZYpEbDVjRdipJIBIxqst9h0T8l5dI-LqEnVjBZaLgl1xSBaUpjxpGaSWu893fafDzg2bnR8Vw6pG04I_Uhsh6_J5SazFpCR5t0o5WHHIuUzqhFyxOiQGs__2WoPy__GQiygi1TE5oeGotblQFABqasiThYyQsNzAZ7MYkN60YSJomsZqPD=s1642-no)
+
+Read the preprint on arXiv:
+
+Grantham, NS, Reich, BJ, Borer, ET, Gross, K. [_MIMIX: a Bayesian Mixed-Effects Model for Microbiome Data from Designed Experiments_](https://arxiv.org/abs/1703.07747). In review. Code available at [github.com/nsgrantham/mimix](http://www.github.com/nsgrantham/mimix)

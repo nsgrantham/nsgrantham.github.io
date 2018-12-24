@@ -48,11 +48,10 @@ h2.post-title, h2.page-title {
   font-size: 0.8em;
   margin-right: 0.5rem;
   white-space:nowrap;
-  .tag-name { text-transform: capitalize; }
-
+  text-decoration: none;
   opacity: 0.75;
+  
   &:hover {
-    text-decoration: none;
     opacity: 1;
   }
 }
@@ -66,7 +65,15 @@ h2.post-title, h2.page-title {
   list-style: none;
 
   h3 {
+    font-weight: 300;
     margin-top: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
   }
 
   li {
@@ -77,8 +84,7 @@ h2.post-title, h2.page-title {
     }
 
     a:hover {
-      color: $link-color;
-      text-decoration: none;
+      color: black;
 
       small {
         color: inherit;

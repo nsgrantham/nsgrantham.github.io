@@ -3,9 +3,10 @@
     margin-right: 0.5em;
     white-space: nowrap;
     opacity: 0.75;
+    text-decoration: none;
 
     .tag-count {
-      background: $link-color;
+      background: $gray-5;
       color: rgba(255, 255, 255, 0.8);
       margin-left: 0.25em;
       border-radius: 1000px;
@@ -16,7 +17,6 @@
 
     // No underline because it looks weird with badge
     &:hover {
-      text-decoration: none;
       opacity: 1;
     }
   }

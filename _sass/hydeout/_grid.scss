@@ -1,0 +1,38 @@
+// Project grid
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+  grid-gap: 40px;
+  padding-top: 5px;
+  font-size: 0.8rem
+}
+
+@media screen and (max-width:640px) {
+  .limiter {
+    width:auto;
+  } .project-grid {
+    grid-template-columns: repeat(1,1fr);
+  }
+}
+
+.project a {
+  text-decoration:none;
+
+  // &:hover { 
+  //   color: black;
+  // }
+}
+  
+.project img {
+  display:block;
+  margin-bottom:10px;
+}
+
+.box {
+  /* background-color: #444;
+  color: #fff; */
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 80%;
+}
