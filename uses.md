@@ -9,17 +9,17 @@ I use a number of programs in my data science workflow.
 
 ## Programming languages
 
-When I'm exploring a new dataset for the first time, I reach for R. I have used R regularly since my sophomore year at Cal Poly in 2009. Although R was once relatively unknown outside of academic statistics departments, the rise of data science as a new discipline has made R accessible to a much wider audence. Today it is especially welcoming to newcomers to data science, thanks to the contributions of RStudio, tidyverse, and the global community of passionate R developers. I find R most effective for exploratory data analysis and data visualizations with ggplot2.
+When I'm exploring a new dataset for the first time, I reach for [R](https://www.r-project.org/). I have used R regularly since 2009 when I was introduced to it in my statistics classes at Cal Poly. At the time R was not widely used outside of academic statistics departments, but the rise of data science as a new discipline has made R accessible to a much larger audence. Today it is especially welcoming to newcomers to data science, thanks to the contributions of RStudio, tidyverse, and the global community of R developers. I find R most effective for exploratory data analysis and data visualizations with ggplot2.
 
-For data science in production, I depend on Python. I began learning Python in 2015 for an internship in the Crew State Monitoring group at the NASA Langley Research Center. Unlike R, which specializes in statistics, Python is a general purpose language which I find useful for developing end-to-end data analysis pipelines and training machine learning models.
+For data science in production, I depend on [Python](https://www.python.org/). I began using Python in 2015 for an internship with the Crew State Monitoring group at NASA Langley Research Center. Unlike R which specializes in statistics, Python is a general purpose language which I find useful for scraping data from websites, developing end-to-end data analysis pipelines, and training machine learning models.
 
-I learned Julia in graduate school after I could no longer stomach the the sluggish convergence of my Markov chain Monte Carlo (MCMC) code in R. Fitting hierarchical Bayesian models with MCMC is a breeze with Mamba.jl. I do not use Julia frequently these days, but with its recent 1.0 release in June 2018, that may change.
+I used [Julia](https://julialang.org/) for several years in graduate school after I could no longer stomach the sluggish convergence of my Markov chain Monte Carlo (MCMC) code in R. Fitting hierarchical Bayesian models with MCMC is a breeze with Mamba.jl. I do not use Julia frequently these days, but afters its new v1.0 release I'm eager to reintroduce it into my workflow.
 
 Finally, bash scripts are the glue that holds everything together.
 
-## IDEs and text editors
+## Code editors
 
-If I'm only working with R, I'll use RStudio, but in most other cases I use Visual Studio Code. I use Neovim with Tmux when a task is terminal heavy.
+I use [Visual Studio Code](https://code.visualstudio.com/) almost every day, a fact which may surprise those who know my distaste for Microsoft products. But it's simple, VS Code is excellent open-source software. Occassionally I use [RStudio](https://www.rstudio.com/products/RStudio/) for R-based projects, or [Neovim](https://neovim.io/) with [Tmux](https://en.wikipedia.org/wiki/Tmux) for tasks in the terminal.
 
 ## Getting things done
 
