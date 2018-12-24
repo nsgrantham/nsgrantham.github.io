@@ -7,8 +7,6 @@ tags:
 
 Are you a mobile programmer interested in a low-cost, lightweight option for hacking on the go? In this post, I describe how to Linux-ify the Samsung Chromebook 3, available now on Amazon for just $200, with GalliumOS, a Linux distribution designed specifically for Chromebooks.
 
-![GalliumOS Screenshot](https://lh3.googleusercontent.com/hJgMV5b_f0zBViqlYDnzmGrU3sNwoZDg1wuNpuInAmL8b4UfZZAA6___oRFUghmtpJaOxEi-EvKaO8v3JTjNmT7OkuAxyPJdU6Kq7PvoAawaD9jY8n9pob-LI9IL-Y_eGhRBKO99bs1X5xOIwBjYn-OvlPUeMYTf0N57j0wAUI-xUvqbsQJCF2NG4xYvP0GTSO0xWiifvshQb3EmRZ7QImPNWx5kJ_4eBd--uFvcr7JfDb-7p-8OuEKog2r6LyNDREs-j557Us-M9TTSwHFk3NteC9rVFh8cuv2qzN5O7EeVGdhZKg7Znu5nrCIrs7HoSDwKw6JjGxqe_ZLpKx9_RNdsTcQ7uE_mgUqjXZCWg4kLI4mSlCVcKxSi-tRcgYC50JBsDff2Rs59Jt0RxoLTgd5qgHX-daXbSnXUawVvzFsX51zMVrX2idTXxk5Q24GTFkJZzap-QK8l0nqnflH4uu2USY5G5ZhH93K8Ul9gKnwrvZ7XNessevmJEuvTAZ1Ta_cHkv2ohBqZ7PndAc7IwWwtR7YzI0y5kHMWmm5kSg1_RkcCyUot76lcTIAkrEIyu9okz_SlS9Sq4nkd0mBjkeS2XDBrYoxFEpcpFQc=w811-h456-no)
-
 <!-- more -->
 
 ## Getting started

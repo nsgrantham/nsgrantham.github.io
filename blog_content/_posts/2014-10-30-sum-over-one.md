@@ -76,7 +76,7 @@ approx.N
 
 So, we estimate \\(P(N = 2)\\) by \\(\hat{P}(N = 2) = 0.514\\), \\(P(N = 3)\\) by \\(\hat{P}(N = 3) = 0.33\\), and so forth. Of course, these are just point estimates for \\(P(N = n)\\), but we can estimate their standard errors as well by running `sample_from_N` many more times. The approximate probability distribution of \\(N\\) is depicted below.
 
-![Probability that big N equals little n](https://lh3.googleusercontent.com/ioKESngkCW3c0mlrGbCxQqY0a18V9qbJWVF5DkSZGzUUSjDfHGEdG0o2cpfqvukrbkWTGWlrN59JwkIZxniVmEnmJGcBrCc_cib30gw9B_a1AZrwPa9Oikseo4_nUOu3Tz8mfGonPmqKNvGW36c9nyajLdsg2x-hg9UYmn0-hrrRmM75oUKW6zrKq6krthhxLFLxmOcsWLZu9xj7XLKZSYrxT1qz_izc1B5q6KKVSTbZPr7el25DI5FulWX_gFx4zvxTsgAtrm8qPYDdY26bvUbtT_l59fpOtx46ebxrfoRylpnTPPTraEMtIBeZa8v6vGkmDZLXHzlszVq-7Uhy15gw-J4KdBOkqSGaNcxMjdUvecCXtcwF5UhsdpRiYu_wOwMZP6T3-KzZW_KselaNu4N9L4Wc9eNFygmwLxs5ggLHoYuzHYFZLQdrQHtf-os1faTpwTrG87gfMBRwLUQQd9huNLRfaO_8PMGioqWd5AF1fKgkdDeARMyT8WvEwMeF_z3bDPsn1Jhkr6wbnAw8D8AbyOnpRTqWpsQ5u4HUcV_8_OH2nzsI-eBRZ84nH8ZbpNEfYU1gmk6VjfDssp16oIs0kb9gizl6QfuSm6vfuLJLBwphvwAZEBszMEvcwDrKFjCdTIpg0ZBBVqgOdmuBcTkvwg_1LedAoA=w2000-h1200-no)
+![Probability that big N equals little n](https://drive.google.com/uc?export=view&id=1Ka4FC0Fx0Rf_9JbxQ7h7iiPvlFWKoVXw)
 
 
 The dotted line here marks the estimated expected value of \\(N\\), \\(\hat{E}(N) = \sum\_{n=2}^\infty n\hat{P}(N=n) \approx 2.71962\\). This value is tantalizingly close to the mathematical constant \\(e\approx 2.7183\\) known as _Euler's number_[^1]. Could the answer to our probability puzzle truly be \\(e\\)?
@@ -89,7 +89,7 @@ P(N = 2) = P(U_1 + U_2 > 1) = 1 - P(U_1 + U_2 \leq 1).
 \\] 
 We can interpret the probability that \\(U_1 + U_2 \leq 1\\) geometrically. Since \\(U_1\\) and \\(U_2\\) are Uniform random variables on \\([0, 1]\\), the point \\((U_1, U_2)\\) can arise anywhere in the unit square with equal probability. Thus, \\(P(U_1 + U_2 \leq 1)\\) corresponds exactly to the proportion of the unit square shaded in the following image. <br />
 
-<center><img src='https://lh3.googleusercontent.com/HlUsKsGFMKry72ToBIn2q7inhirXgI2eoh7t3zogcfPXVqsgk_B4XH_MkykSZdtSHOFMzV10WG2mDsmimJJc6BC2OhAQ6T30Kzj83HmPDbi8gRECHuCfuwOMMLy9aogpOIypHzlI-pg_VUic46U6Z0tE6JMyhBbNBxDnHfSQEAbpzTnGF3dmq1OX36WUWKYFazHga-HEsc-6BJpUZia94332QqS_SxVZamIvEpjp8X1-0AfCu18jNF_ERmccTv_N6P1WZNDPsvrwZEdGHXfIfmxji8b4QjdnAeESsnPww3CpR97CDNBi0H7tDQrtnhgw5LsEovGjRpOfbe6jcddzDONbtP2K5qEYESBZtzELgMcmA_EPWOjCnLB2Et-0RLTYUrSCK8dfbJWYs9E-xGHwUUphrja8GweuZ_tG4zkZQ-IJe6kWxMONkRDwQcpzLuOCoi4JOrXwBJO0zGEXpNi73lQLqCP3WsxuMJL2FAQfFjr42Fy-DvCmeW5x8iONGnmekZajPtZJeTwRdSTPQu8G1bh0s4-Gykh096SgAUiqvV3EM57yZBuHStJovtHAR0QhjhnD83j0cHTUfjpNNlR8HBsHNsF-THlJWHTQNFdHs2Vj1P3CUYXGVbnpRd1LqvjO48VRxy1HWJY_J4IA3DC_anewr9WTkqQhgg=w335-h333-no' alt='2-dimensional unit simplex'/></center>
+<center><img src='https://drive.google.com/uc?export=view&id=1Q_6PRYEXsoRfjonYs4JFKMJf0SskQB6y' alt='2-dimensional unit simplex'/></center>
 
 This shaded region is referred to as a _2-dimensional unit simplex_[^2] with area
 \\[
@@ -105,7 +105,7 @@ P(N \leq 3) = P(U_1 + U_2 + U_3 > 1) = 1 - P(U_1 + U_2 + U_3 \leq 1).
 \\]
 Similar to the previous case, the probability that the sum of three random draws from [0,1], \\(U_1, U_2,\\) and \\(U_3\\), does _not_ exceed 1 is given by the proportion of the unit cube shaded in the following image. <br />
 
-<center><img src='https://lh3.googleusercontent.com/C4pGVVIku7pI74iwDYmA4DosnjZB2_b9DgALWc-eR2WwBGMUOqq1LPNMKbbpS9R08JVwyGJbettU6ffZImo6hdFCuYAyNUChmoBgjprk7DyIXkAodje2p3JeMRfNgUxABvjAI2uer3dCpOTfeOOTF2iYme2TuX0TOVftrxPgYdkIX4ezS-7--oYdSUWdJup6iMIZUp2p-dEh1NkGd89jKlb1vK883mC5ib9NTUQsYGG1Nzo3bJKw8IDHUJy0LF7OuMTHA4OP5hwA0TZyq9qSc2eowDnmjMN_fSic_UkmksP2uKaQzK8oneuPtBTvXMKLVb-3-1tfX1oU8KIIxPy_ei6R59xLvHYL_AIpTr0Jo0D1Il79mwOpYe0ke3lqRe_TvPSTVP7mxUBmH5LQbtpXkUtmfLQKI-JTB8Uc0nweGe3hve81TpZP183OVicWXFrwXmTAdYhWznYEjVX8qqqJlxlEfWlwSVltWFyvIN1eTqRQIy3pGj5lR89eWnx3_zkwiFptoWuSOjsi707ITBW8pk91F77OPCe0XE5-Ln3OcPtMsqblgN0JnmwYHAM0owX3apNN8ee2hfSjLdlnAMkJI81Qkz07xeE3XfAe_zBBWvYFYclLx1GPKJDrjlQ-Kl1MfKV70ICIoQRTdU_9KBalS42bwFUC5fXQpws=w393-h400-no'></center>
+<center><img src='https://drive.google.com/uc?export=view&id=1fIIpGwr8iliwKuxjbq58PWSJSNiUSh6P'></center>
 
 This shaded region is a _3-dimensional unit simplex_ with volume
 \\[ \begin{align}

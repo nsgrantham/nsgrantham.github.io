@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-<img src="https://lh3.googleusercontent.com/BWQinNLtbHscbv6lzuwzuRHoNRcSbJUgL21ugNvItJEqQt5y6BgiHlSxBEawvOPJPEXCStY8stVmD_3iTIaVd699Wejnm4yDGnYHPZubf6ljY4e4AZ51a7dM10llXHh8Z1XScA0wXguqoZrfpYat4Fe-i99MduehXRIdO12qPFp4xsW6sTzcR2K9gX0_JCl4miPpwMUbFYLMp26liy7g9MFxDvVAgWOyeKFICAFUcCcHF3Tsm4xOM-ZCmdxXgptct783Gse5GVOIXABcMQFuLtuYx2biMUoZOlGntkVxKzjz9zt708EnYx2skeoSUEJF4J42531v2tinw5FVu1ftlgRye19W_nZLFPf7zcMuxhTocjBwAgOyz6bL6Z7P1Zf6sprojRnZ6ncsN5RIurQWTyS4LmtehjSLmu51blmgTf8KqFTH2DRNgB107iuIhuHXbaHla2do3XOU7nLDJIkCp8gdXY5cQ0-cru4ewb93w0MZyL5-TrNtRaxF39lC726Z9D2p2Uu-uWFRqyId5FMOtpueAOuGyWW1LYzg9lxSlaNrHvZpU7qHS77XpI9F7UTg15PaQlkFDFDoDMhZedv65-g4lQKYwdNjQrsRj1BIap-dsfC5-pRaYb3IoSkAMLe5188VvCT3ZcWkzVL6XWIMYaI0=w211-h327-no" style="float:right;padding-right:20px;padding-left:20px">Hi, I'm Neal Grantham.
+<img src="https://drive.google.com/uc?export=view&id=15EVzDhqzCU2fbgMczVeyaP6fb4E6nxKk" style="float:right;padding-right:20px;padding-left:20px">Hi, I'm Neal Grantham.
 
 I'm a statistician, which means I use data to make better decisions.
 
