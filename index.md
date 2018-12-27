@@ -5,13 +5,13 @@ title: Home
 
 <img src="https://drive.google.com/uc?export=view&id=15EVzDhqzCU2fbgMczVeyaP6fb4E6nxKk" style="float:right;padding-right:20px;padding-left:20px">Hi, I'm Neal Grantham.
 
-I'm a statistician, which means I use data to make better decisions.
+I'm a statistician, which means I use statistical models to make data-informed decisions.
 
-In my role as a data scientist at Phylagen in San Francisco, I work with large datasets of high-throughput sequencing data on the environmental microbiome. Before joining Phylagen, I earned my doctorate in statistics in 2017 from North Carolina State University where I worked with Brian Reich on Bayesian hierarchical models for spatially-distributed data.
+In my role as a data scientist at Phylagen in San Francisco, I use machine learning models trained on DNA sequence data from the environmental microbiome to predict where things come from. Before joining Phylagen, I earned my doctorate in statistics in 2017 from North Carolina State University where I worked with Brian Reich to develop Bayesian hierarchical models for high-dimensional spatial data.
 
-When I'm not programming, I run, hike, read non-fiction and sci-fi books, and listen to podcasts. For several years I was a weekly radio DJ at WKNC 88.1 FM under the name Voyager 3.
+When I'm not programming, I like to run, hike, read non-fiction and science fiction, and listen to podcasts on tech, business, history, and politics. I especially enjoy discovering new music and sharing it with others --- for several years I was a weekly radio DJ at WKNC 88.1 FM under the name Voyager 3.
 
-While you're here, visit the links in the sidebar, check out my [CV]({{ site.url }}/documents/nsgrantham-cv.pdf), or follow me on [GitHub](http://github.com/nsgrantham) or [Twitter](http://twitter.com/nsgrantham).
+For more about me, visit the links in the sidebar, check out my [CV]({{ site.url }}/documents/nsgrantham-cv.pdf), or follow me on [GitHub](http://github.com/nsgrantham) or [Twitter](http://twitter.com/nsgrantham).
 
 ### Contact
 

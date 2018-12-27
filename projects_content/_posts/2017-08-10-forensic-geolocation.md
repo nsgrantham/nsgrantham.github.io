@@ -9,7 +9,7 @@ Every speck of dust contains thousands of bacteria, fungi, and other microbes. T
 
 ![presence-absence-map](https://github.com/nsgrantham/fungi-identify/blob/master/figs/OTU_232.png?raw=true)
 
-In the following papers, I and my collaborators develop statistical models for forensic geolocation using microbiome data from high-throughput sequencing.
+In the following papers, my collaborators and I develop statistical models for forensic geolocation using microbiome data from high-throughput sequencing.
 
 Grantham, NS, Reich, BJ, Laber, EB, Pacifici, K, Dunn, RR, Fierer, N, Gebert, M, Allwood, JS, Faith, SA. _Forensic Geolocation with Deep Neural Networks_. In review.
 

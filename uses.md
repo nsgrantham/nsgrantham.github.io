@@ -11,15 +11,15 @@ I use a number of programs in my data science workflow.
 
 When I'm exploring a new dataset for the first time, I reach for [R](https://www.r-project.org/). I have used R regularly since 2009 when I was introduced to it in my statistics classes at Cal Poly. At the time R was not widely used outside of academic statistics departments, but the rise of data science as a new discipline has made R accessible to a much larger audence. Today it is especially welcoming to newcomers to data science, thanks to the contributions of RStudio, tidyverse, and the global community of R developers. I find R most effective for exploratory data analysis and data visualizations with ggplot2.
 
-For data science in production, I depend on [Python](https://www.python.org/). I began using Python in 2015 for an internship with the Crew State Monitoring group at NASA Langley Research Center. Unlike R which specializes in statistics, Python is a general purpose language which I find useful for scraping data from websites, developing end-to-end data analysis pipelines, and training machine learning models.
+For data science in production, I depend on [Python](https://www.python.org/). I began using Python in 2015 for an internship with the Crew State Monitoring group at NASA Langley Research Center. Unlike R which specializes in statistics, Python is a general purpose language that I find useful for scraping data from websites, developing end-to-end data analysis pipelines, and training machine learning models.
 
-I used [Julia](https://julialang.org/) for several years in graduate school after I could no longer stomach the sluggish convergence of my Markov chain Monte Carlo (MCMC) code in R. Fitting hierarchical Bayesian models with MCMC is a breeze with Mamba.jl. I do not use Julia frequently these days, but afters its new v1.0 release I'm eager to reintroduce it into my workflow.
+I used [Julia](https://julialang.org/) for several years in graduate school after I could no longer stomach the sluggish convergence of my Markov chain Monte Carlo (MCMC) algorithm in R. MCMC for Bayesian analysis is a breeze with Mamba.jl. I do not use Julia frequently these days, but I'm eager to reintroduce it into my workflow afters its recent v1.0 release.
 
 Finally, bash scripts are the glue that holds everything together.
 
 ## Code editors
 
-I use [Visual Studio Code](https://code.visualstudio.com/) almost every day, a fact which may surprise those who know my distaste for Microsoft products. But it's simple, VS Code is excellent open-source software. Occassionally I use [RStudio](https://www.rstudio.com/products/RStudio/) for R-based projects, or [Neovim](https://neovim.io/) with [Tmux](https://en.wikipedia.org/wiki/Tmux) for tasks in the terminal.
+I use [Visual Studio Code](https://code.visualstudio.com/) almost every day, a fact which may surprise those who know my general distaste for Microsoft products. But it's simple, VS Code is excellent open-source software. I also use [RStudio](https://www.rstudio.com/products/RStudio/) for exploratory data analysis, and [Neovim](https://neovim.io/) with [Tmux](https://en.wikipedia.org/wiki/Tmux) for tasks that require heavy use of the terminal.
 
 ## Getting things done
 
@@ -29,7 +29,7 @@ In recent months, I have migrated my note keeping and schedule planning to [Noti
 
 ## This website
 
-nsgrantham.com is built with [Jekyll](http://jekyllrb.com), a blog-aware, static site generator in Ruby, and is hosted freely with GitHub Pages. Its structure and style is courtesy of Hydeout, a Jekyll 3.x refresh of Hyde, which I have [forked and modified slightly](http://github.com/nsgrantham/hydeout).
+nsgrantham.com is built with [Jekyll](http://jekyllrb.com) and hosted freely with GitHub Pages. Its structure and style is courtesy of Hydeout, a Jekyll 3.x refresh of Hyde, which I have [forked and modified slightly](http://github.com/nsgrantham/hydeout).
 
 ## Dotfiles
 
