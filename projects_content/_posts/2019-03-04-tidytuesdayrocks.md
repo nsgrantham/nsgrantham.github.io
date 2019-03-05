@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tidytuesday.rocks
-description: An interactive catalogue of #TidyTuesday tweets from 2018
+description: An interactive catalogue of Tidy Tuesday tweets from 2018
 image: https://drive.google.com/uc?export=view&id=1C2fHdFScmioMDqyTrWQkVv75AwDIP1dD
 ---
 
