@@ -42,7 +42,7 @@
     <div id="all-posts" class="posts-for-tag">
       <h2>All Posts</h2>
       <ul class="posts-list">
-        {% for post in site.categories.blog_content %}
+        {% for post in site.posts %}
           <li>
             <h3>
               <a href="{{ site.baseurl }}{{ post.url }}">

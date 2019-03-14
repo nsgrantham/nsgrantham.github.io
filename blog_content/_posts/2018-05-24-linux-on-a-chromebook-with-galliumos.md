@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portable hacking on a budget: Linux on a Chromebook with GalliumOS"
+title: "Linux on a Chromebook with GalliumOS"
 tags: 
 - unix
 ---

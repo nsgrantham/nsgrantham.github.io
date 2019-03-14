@@ -3,6 +3,9 @@ layout: post
 image: https://drive.google.com/uc?export=view&id=1YDm6FYiTtAW3LXmKIlehViyoVRuTQKmM
 title: MIMIX
 description: Bayesian mixed-effects model for microbiome data
+tags:
+- microbiome
+- Julia
 ---
 
 MIMIX (MIcrobiome MIXed model) is a Bayesian hierarchical model for the analysis of high-throughput sequencing abundance data from designed experiments. It achieves four scientific objectives:

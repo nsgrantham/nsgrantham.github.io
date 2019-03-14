@@ -3,6 +3,9 @@ layout: post
 title: Mapping fine particulate matter
 image: https://drive.google.com/uc?export=view&id=1vt90eZUalxvw7cIWh2ChNPJBWz0dur1j
 description: Spatial regression with an informatively-missing covariate
+tags:
+- spatial statistics
+- Julia
 ---
 
 Mapping fine particulate matter (PM2.5) requires a number of spatial and spatiotemporal covariates, one of which is aerosol optical depth (AOD) captured by NASA satellites. However, AOD is often missing, and it is likely the conditions that lead to missing AOD are also conducive to high AOD (pictured below).

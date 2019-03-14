@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=15EVzDhqzCU2fbgMczVeyaP6fb4E6nxKk" style="float:right;padding-right:20px;padding-left:20px">Hi, I'm Neal Grantham.
+Hi, I'm Neal Grantham.
 
 I'm a statistician, which means I use statistical models to make data-informed decisions.
 

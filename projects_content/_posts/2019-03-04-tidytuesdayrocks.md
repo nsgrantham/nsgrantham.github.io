@@ -3,6 +3,9 @@ layout: post
 title: tidytuesday.rocks
 description: An interactive catalogue of Tidy Tuesday tweets from 2018
 image: https://drive.google.com/uc?export=view&id=1C2fHdFScmioMDqyTrWQkVv75AwDIP1dD
+tags:
+- data visualization
+- R
 ---
 
 Tidy Tuesday is a weekly social data project in R. Every week Thomas Mock and the R for Data Science Community post a new dataset and ask R users to explore it and share their findings on Twitter with #TidyTuesday. Since the first dataset was posted on April 2nd, 2018, there are now over 40 datasets and more than 800 #TidyTuesday tweets from 221 users!

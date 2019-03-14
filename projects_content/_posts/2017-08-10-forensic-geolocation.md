@@ -3,6 +3,9 @@ layout: post
 title: Geolocation
 image: https://drive.google.com/uc?export=view&id=1v-Ztx5WyY8Ojs1VjqTJ6E7B3H1l7NxsC
 description: Spatial models for forensic geolocation with microbiome data
+tags:
+- microbiome
+- R
 ---
 
 Every speck of dust contains thousands of bacteria, fungi, and other microbes. This "microbiome" varies across geographies, so much so that dust collected from an unknown location can be traced back to its approximate origin with high accuracy. The figure below shows the spatial distribution of a single fungus among tens of thousands of fungi observed in dust swabs from over 1,000 locations across the United States. 
