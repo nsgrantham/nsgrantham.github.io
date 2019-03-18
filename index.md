@@ -11,7 +11,7 @@ In my role as a data scientist at Phylagen in San Francisco, I use machine learn
 
 When I'm not programming, I like to run, hike, read non-fiction and science fiction, and listen to podcasts on tech, business, history, and politics. I especially enjoy discovering new music and sharing it with others --- for several years I was a weekly radio DJ at WKNC 88.1 FM under the name Voyager 3.
 
-For more about me, visit the links in the sidebar, check out my [CV]({{ site.url }}/documents/nsgrantham-cv.pdf), or follow me on [GitHub](http://github.com/nsgrantham) or [Twitter](http://twitter.com/nsgrantham).
+For more about me, visit the links in the sidebar, follow me on [Twitter](http://twitter.com/nsgrantham) or [GitHub](http://github.com/nsgrantham), or review my [résumé]({{ site.url }}/documents/nsgrantham-resume.pdf).
 
 ### Contact
 
